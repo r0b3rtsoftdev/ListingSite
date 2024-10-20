@@ -9,8 +9,8 @@
 </template>
 
 <script setup lang="ts">
-import HeaderView from './HeaderView.vue';
-import FooterView from './FooterView.vue';
+import HeaderView from './HeaderView.vue'
+import FooterView from './FooterView.vue'
 </script>
 
 <style lang="scss">

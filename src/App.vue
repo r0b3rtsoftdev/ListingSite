@@ -5,7 +5,7 @@
 </template>
 
 <script setup lang="ts">
-import BaseLayout from '@/views/layout/BaseLayout.vue';
+import BaseLayout from '@/views/layout/BaseLayout.vue'
 </script>
 
 <style lang="scss">
