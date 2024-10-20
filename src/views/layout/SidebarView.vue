@@ -1,6 +1,5 @@
 <template>
-  <aside class="sidebar d-none d-lg-block bg-light me-3">
-    <h4>Sidebar</h4>
+  <aside class="sidebar d-none d-lg-block bg-white me-3 rounded-4 shadow p-4">
     <ul class="list-group">
       <li class="list-group-item">
         <a href="/list" class="nav-link">Lista</a>
@@ -15,8 +14,5 @@
 <style>
 .sidebar {
   min-width: 200px;
-  padding: 15px;
-  height: auto;
-  overflow-y: auto;
 }
 </style>
